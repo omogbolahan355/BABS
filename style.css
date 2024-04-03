@@ -1,0 +1,92 @@
+.ut {
+   width: 800px;
+   height: 700px;
+   border: #f5c4337f 3px;
+   margin-left: 700px;
+   background-color: #f5c4337f;
+   font-size: xx-large;
+   border-radius: 8px;
+   padding-left: 50px;
+   padding-top: 50px;
+   padding-right: 50px;
+   margin-top: 80px;
+   margin-left: 50px;
+   box-shadow: 10px 10px 10px 10px rgb(110, 116, 118);
+}
+
+ul {
+   margin-top: -800px;
+}
+.yk{
+   float: right;
+   margin-top: 25px;
+  margin-right: 35px;
+  border-radius: 8px;
+}
+
+.sk{
+   border-radius: 8px;
+}
+
+
+
+.MD {
+   width: 1780px;
+   height: 50px;
+   border-radius: 8px;
+   font-size: x-large;
+}
+
+body {
+   /* background-color:#282828; */
+   color: black;
+   margin-left: 65px;
+   font-size: x-large;
+   background-color: #f5c4337f;
+
+}
+
+.us {
+   width: 1580px;
+   height: 50px;
+   border: 3px solid black;
+   text-align: center;
+   margin-left: 75px;
+   color: black;
+   font-size: x-large;
+   border-radius: 8px;
+}
+
+#ux {
+   margin-left: 80px;
+   box-shadow:10px 10px 10px 10px rgba(118, 118, 110, 0.815);
+}
+
+.lk {
+   margin-left: 200px;
+   margin-top: 130px;
+   border: black solid 0px;
+   width: 350px;
+   height: 300px;
+   padding-left: 20px;
+   padding-top: 20px;
+   box-shadow: 20px #f5c4337f;
+   box-shadow: 10px 10px 10px 10px rgb(110, 116, 118);
+
+}
+
+.me {
+   border-radius: 8px;
+
+}
+
+.me:hover {
+
+   background-color: beige;
+
+}
+
+.MD:hover {
+   background-color: #F6F5F1;
+
+}
